@@ -23,7 +23,7 @@ A red-flag analysis of **Singapore government tender awards** (GeBIZ, Apr 2021 â
 **1. Overview:** where the money goes
 ![Overview](images/dashboard_overview.png)
 
-**2. Red Flags:** results of the seven tests
+**2. Red Flags:** results of the 7 tests
 ![Red Flags](images/dashboard_red_flags.png)
 
 **3. Review List:** agencyâ€“supplier pairs ranked by risk score. Click a pair to see its awards.
