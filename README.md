@@ -5,8 +5,11 @@ A red-flag analysis of **Singapore government tender awards** (GeBIZ, Apr 2021 �
 > **A red flag is not evidence of wrongdoing.** It marks a pattern that deserves a closer look. Most flagged cases will have ordinary explanations.
 
 **Tools:** 
+
 · MySQL (cleaning, 5 of the 7 tests, risk score)
+
 · Python: pandas, NumPy, SciPy, matplotlib (Benford's Law and outlier tests)
+
 · Power BI (dashboard)
 
 ---
