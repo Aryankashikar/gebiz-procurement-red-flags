@@ -1,6 +1,6 @@
 # GeBIZ Procurement Red Flags
 
-A red-flag analysis of **Singapore government tender awards** (GeBIZ, Apr 2021 – Mar 2026). It runs seven tests that auditors and forensic analysts use to spot unusual procurement patterns, combines them into a **risk score** for every agency–supplier pair, and presents the results in a 3-page **Power BI** dashboard.
+A red-flag analysis of **Singapore government tender awards** (GeBIZ, Apr 2021 – Mar 2026). It runs 7 tests that auditors and forensic analysts use to spot unusual procurement patterns, combines them into a **risk score** for every agency–supplier pair, and presents the results in a 3-page **Power BI** dashboard.
 
 > **A red flag is not evidence of wrongdoing.** It marks a pattern that deserves a closer look. Most flagged cases will have ordinary explanations.
 
